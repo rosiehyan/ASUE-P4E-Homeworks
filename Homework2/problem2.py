@@ -17,5 +17,5 @@ while int(guess) != num:
     print("It's too low")
 else:
   print("Congrats")
-  print("Bravo. You guessed it in {} steps {}" .format(num_of_guesses, 42))  
+  print("Bravo. You guessed it in {} steps" .format(num_of_guesses))  
 
